@@ -20,6 +20,7 @@
 		73A5D4391E1CCB0C00096B7C /* TextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73A5D4381E1CCB0C00096B7C /* TextField.swift */; };
 		73A5D43B1E1CCD0F00096B7C /* SignInButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73A5D43A1E1CCD0F00096B7C /* SignInButton.swift */; };
 		73A5D43D1E1DC53300096B7C /* FeedVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73A5D43C1E1DC53300096B7C /* FeedVC.swift */; };
+		73A5D43F1E1E094B00096B7C /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73A5D43E1E1E094B00096B7C /* ImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		73A5D4381E1CCB0C00096B7C /* TextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextField.swift; sourceTree = "<group>"; };
 		73A5D43A1E1CCD0F00096B7C /* SignInButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInButton.swift; sourceTree = "<group>"; };
 		73A5D43C1E1DC53300096B7C /* FeedVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedVC.swift; sourceTree = "<group>"; };
+		73A5D43E1E1E094B00096B7C /* ImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
 		8BD583C88B949A6A2AA9E3B4 /* Pods-SocialApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SocialApp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SocialApp/Pods-SocialApp.debug.xcconfig"; sourceTree = "<group>"; };
 		D4BDB6D23BF089FAFD00E143 /* Pods_SocialApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SocialApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -111,6 +113,7 @@
 				73A5D4361E1CC92B00096B7C /* RoundButton.swift */,
 				73A5D4381E1CCB0C00096B7C /* TextField.swift */,
 				73A5D43A1E1CCD0F00096B7C /* SignInButton.swift */,
+				73A5D43E1E1E094B00096B7C /* ImageView.swift */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 				73A5D4321E1CC59400096B7C /* TopView.swift in Sources */,
 				73A5D43D1E1DC53300096B7C /* FeedVC.swift in Sources */,
 				73A5D4391E1CCB0C00096B7C /* TextField.swift in Sources */,
+				73A5D43F1E1E094B00096B7C /* ImageView.swift in Sources */,
 				73A5D41B1E1C98EC00096B7C /* AppDelegate.swift in Sources */,
 				73A5D4351E1CC69600096B7C /* Constants.swift in Sources */,
 			);
