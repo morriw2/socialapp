@@ -23,6 +23,7 @@
 		73A5D43F1E1E094B00096B7C /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73A5D43E1E1E094B00096B7C /* ImageView.swift */; };
 		73A5D4411E1E1D6500096B7C /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73A5D4401E1E1D6500096B7C /* PostCell.swift */; };
 		73A5D4441E20CF1E00096B7C /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73A5D4431E20CF1E00096B7C /* DataService.swift */; };
+		73A5D4461E24CEB400096B7C /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73A5D4451E24CEB400096B7C /* Post.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		73A5D43E1E1E094B00096B7C /* ImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
 		73A5D4401E1E1D6500096B7C /* PostCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		73A5D4431E20CF1E00096B7C /* DataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
+		73A5D4451E24CEB400096B7C /* Post.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
 		8BD583C88B949A6A2AA9E3B4 /* Pods-SocialApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SocialApp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SocialApp/Pods-SocialApp.debug.xcconfig"; sourceTree = "<group>"; };
 		D4BDB6D23BF089FAFD00E143 /* Pods_SocialApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SocialApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -107,6 +109,7 @@
 		73A5D42E1E1CACC000096B7C /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				73A5D4451E24CEB400096B7C /* Post.swift */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -286,6 +289,7 @@
 				73A5D43B1E1CCD0F00096B7C /* SignInButton.swift in Sources */,
 				73A5D41D1E1C98EC00096B7C /* SignInVC.swift in Sources */,
 				73A5D4371E1CC92B00096B7C /* RoundButton.swift in Sources */,
+				73A5D4461E24CEB400096B7C /* Post.swift in Sources */,
 				73A5D4321E1CC59400096B7C /* TopView.swift in Sources */,
 				73A5D43D1E1DC53300096B7C /* FeedVC.swift in Sources */,
 				73A5D4441E20CF1E00096B7C /* DataService.swift in Sources */,
